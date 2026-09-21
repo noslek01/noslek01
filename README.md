@@ -29,21 +29,19 @@ Estudante de **Inteligência Artificial** e entusiasta de tecnologia, focado no 
 
 ### 📌 Projeto em Destaque
 
-- 🎮 **Gamificação & Educação:** Projetos que integram lógica de jogos e cultura para o aprendizado de matemática e tecnologia.
-**[Delta RPG](https://deltarpg.github.io/deltarpgjogo/):** Motor de jogo educativo focado em gamificação para o aprendizado de matemática e cultura regional.
+#### 🎮 [Delta RPG](https://deltarpg.github.io/deltarpgjogo/)
+![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-000000?style=flat-square&logo=godotengine&logoColor=white) ![Gamification](https://img.shields.io/badge/Gamificação-4285F4?style=flat-square)
+
+> Motor de jogo educativo desenvolvido para conectar **gamificação**, **aprendizado de matemática** e **valorização da cultura regional**.
+
+- 🎯 **Objetivo:** Tornar o ensino de matemática mais interativo através da lógica de jogos.
+- ⚙️ **Tecnologias:** Godot Engine & GDScript.
+- 🔗 **Acesse o jogo:** [deltarpg.github.io/deltarpgjogo](https://deltarpg.github.io/deltarpgjogo/)
 
 ---
 
-### 📌 Projeto com Participação
+### 💻 Portfólio
 
-- 🧠 **Modelos & LLMs:** Testes, prompts avançados e experimentações com modelos de linguagem aplicados a problemas reais.
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=noslek01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noslek01&layout=compact&theme=tokyonight&hide=html,css"/>
-</p>
 
 ---
 
