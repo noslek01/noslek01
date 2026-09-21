@@ -30,7 +30,7 @@ Estudante de **Inteligência Artificial** e entusiasta de tecnologia, focado no 
 ### 📌 Projeto em Destaque
 
 - 🎮 **Gamificação & Educação:** Projetos que integram lógica de jogos e cultura para o aprendizado de matemática e tecnologia.
-- **[Delta RPG](https://deltarpg.github.io/deltarpgjogo/):** Motor de jogo educativo focado em gamificação para o aprendizado de matemática e cultura regional.
+**[Delta RPG](https://deltarpg.github.io/deltarpgjogo/):** Motor de jogo educativo focado em gamificação para o aprendizado de matemática e cultura regional.
 
 ---
 
