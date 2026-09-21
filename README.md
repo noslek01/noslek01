@@ -1,16 +1,50 @@
-## Hi there 👋
+# Olá, eu sou o Kelson! 👋
 
-<!--
-**noslek01/noslek01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Inteligência Artificial** e entusiasta de tecnologia, focado no desenvolvimento de soluções inovadoras, metodologias ágeis e aplicação de IA no ecossistema regional e educacional.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim
+
+- 🎓 **Foco de Estudos:** Inteligência Artificial, Aprendizado de Máquina e Ciência de Dados.
+- 💻 **Linguagens & Fundamentos:** C, Python, Estruturas de Dados e Lógica Programacional.
+- 📐 **Base Teórica:** Estatística, Probabilidade e Matemática Computacional.
+- 💡 **Interesses:** Aplicações de IA em ecossistemas locais, gamificação na educação e startups de tecnologia.
+- 🤝 **Aberto a:** Colaborações em projetos *open-source*, hackathons e desenvolvimento de soluções baseadas em LLMs.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+**Linguagens & Desenvolvimento:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Áreas de Interesse & Conceitos:**
+![Data Science](https://img.shields.io/badge/Data%20Science-111111?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Gamification](https://img.shields.io/badge/Gamification-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+### 📌 Projeto em Destaque
+
+- 🎮 **Gamificação & Educação:** Projetos que integram lógica de jogos e cultura para o aprendizado de matemática e tecnologia.
+- ⚙️ **Algoritmos em C:** Exercícios, estruturas de dados e manipulação matricial focados em otimização.
+
+---
+
+### 📌 Projeto com Participação
+
+- 🧠 **Modelos & LLMs:** Testes, prompts avançados e experimentações com modelos de linguagem aplicados a problemas reais.
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=noslek01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noslek01&layout=compact&theme=tokyonight&hide=html,css"/>
+</p>
+
+---
+
+📫 **Como me encontrar:**
+- **Instagram:** [kelson_castro](https://www.instagram.com/okelson_castro/)
