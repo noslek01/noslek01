@@ -18,6 +18,7 @@ Estudante de **Inteligência Artificial** e entusiasta de tecnologia, focado no 
 
 **Linguagens & Desenvolvimento:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Áreas de Interesse & Conceitos:**
 ![Data Science](https://img.shields.io/badge/Data%20Science-111111?style=for-the-badge&logo=scikit-learn&logoColor=white)
